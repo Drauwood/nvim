@@ -7,6 +7,7 @@ vim.keymap.set('i', 'jj', '<Esc>')
 -- Buffers
 vim.keymap.set('n', '<F2>', ':w<CR>')
 vim.keymap.set('n', '<F3>', ':q<CR>')
+vim.keymap.set('n', '<F11>', ':Lazy<CR>')
 vim.keymap.set('n', '<F12>', ':q!<CR>')
 
 -- Neo-tree
