@@ -16,7 +16,8 @@ return {
                 ensure_installed = {
                     'lua_ls',
                     'clangd',
-                    'rust_analyzer', 'tombi'
+                    -- 'rust_analyzer', 'tombi',
+                    'csharp-language-server'
                 }
             })
         end
