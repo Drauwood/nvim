@@ -6,7 +6,7 @@ vim.wo.linebreak = true
 -- Mouse
 vim.opt.mouse = "a"
 vim.opt.mousefocus = true
-vim.opt.cursorline = true
+vim.opt.cursorline = false
 
 -- Clipboard
 vim.opt.clipboard = "unnamedplus"
